@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce MERN project.<br>🌱 I’m currently learning MERN stack and Mobile App dev.<br>💬 Ask me about React.js, JavaScript and CSS.
+🔭 I’m currently interning at Drugboard.ai as a Frontend Engineer.<br>🌱 I’m currently learning MERN stack and Mobile App dev.<br>💬 Ask me about React.js, JavaScript and CSS.
 
 
 ## 🌐 Socials:
